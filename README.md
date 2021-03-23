@@ -1,4 +1,4 @@
-this is the web link of tables 2, 3 and 4
+# This is the web link of tables 2, 3 and 4
 
 ## <br><br/> Table 2. The co-word matrix
 |                              | interpreting pedagogy | simultaneous interpreting | meta-research | interpreting skills | consecutive interpreting | memory | interpreter | interpreter training | corpus | interpreting strategies | interpreting courses | talent development | Interpretive Theory | interpreter competencies | interpreter’s qualities | notetaking | Chinese-English interpreting | cognition | MTI  | technical interpreting | teaching materials | professionalization | teaching models | comprehension | business interpreting | conference interpreting | court interpreting | context | interpreting quality | press conferences | information technology | curriculum design | sight translation | quality assessment | interpreting theories | empirical research | meaning | English program | features of interpreting | interpreting process | Russian interpreting | interpreting criteria | interpreter’s roles | deverbalization | teaching methods | language services | interpreting students | research methods | news | C-E CI | source language |
